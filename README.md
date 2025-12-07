@@ -1,4 +1,4 @@
-# Final-Project-Template
+# Mental Health Analysis
 <!-- Edit the title above with your project title -->
 
 ## Project Overview
@@ -12,20 +12,24 @@
 
 | Category          | Score    |
 | ----------------- | -------- |
-| **Setup**         | ... / 10 |
-| **Execution**     | ... / 20 |
-| **Documentation** | ... / 10 |
-| **Presentation**  | ... / 30 |
-| **Total**         | ... / 70 |
+| **Setup**         | 10 / 10 |
+| **Execution**     | 17 / 20 |
+| **Documentation** | 9 / 10 |
+| **Presentation**  | 22 / 30 |
+| **Total**         | 58 / 70 |
 
 ### Reflection
 <!-- Edit the following section with your reflection -->
 
 #### What went well?
-#### What did not go well?
-#### What did you learn?
-#### What would you do differently next time?
+I learned a lot and it was cool to be able to research a topic I was interested in. Additionally importing all the data and creating the visualizations went well.
 
+#### What did not go well?
+I didn't have as much granular data as I thought and trying to get all data in the corect format so that it would be used correctly by the pipeline and models was a pain. Additionally my video presentation felt really rushed to the point that I had to record it 3-4 times because 5-7 minutes to explain the project and walk through it at a steady pace is not nearly enough time. 8-12 minutes would have been much better.
+#### What did you learn?
+How to take in and analyze data from start to finish and visualize the connections between various datasets.
+#### What would you do differently next time?
+Probably try and use more models to see if I could find one that was more accurate at predicting the data.
 ---
 
 ## Getting Started
